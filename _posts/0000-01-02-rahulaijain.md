@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Hard work is a Key to success. 
 Use the left arrow to go back!
